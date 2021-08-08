@@ -2,7 +2,7 @@
 ### Always try to Study and Learn ✊✊
 
 * ### Education 🎓
-  **Seoul National University(SNU)**  
+  **Seoul National University (SNU)**  
   **B.S. in Statistics** (Cum laude) / Minor :  Business Administration
 
 * ### Job Description 🏢
