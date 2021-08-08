@@ -1,12 +1,12 @@
-### Glad to meet you!👏 I am Minguk Kim 
-### Always try to Study and Learn
+### Glad to meet you!👏 I am Minguk Kim 💥
+### Always try to Study and Learn ✊✊
 
-* #### Education🎓
-  Seoul National University(SNU)
+* #### Education 🎓
+  Seoul National University(SNU)   
   B.S. in Statistics (Cum laude) / Minor :  Business Administration
 
 * #### Job Description 🏢
-  Data Science / Data Analytics
+  Data Science / Data Analytics  
   Machine Learning(Statistical Learning) Engineer / Deep Learning Engineer
 
 * #### Interested in 💡
