@@ -6,7 +6,7 @@
   **B.S. in Statistics** (Cum laude) / Minor :  Business Administration
 
 * ### Job Description 🏢
-  **Data Science / Data Analytics**
+  **Data Science / Data Analytics**  
   **Machine Learning(Statistical Learning) Engineer / Deep Learning Engineer**
 
 * ### Interested in 💡
