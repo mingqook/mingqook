@@ -2,15 +2,15 @@
 ### Always try to Study and Learn ✊✊
 
 * ### Education 🎓
-  Seoul National University(SNU)   
-  B.S. in Statistics (Cum laude) / Minor :  Business Administration
+  **Seoul National University(SNU)**  
+  **B.S. in Statistics** (Cum laude) / Minor :  Business Administration
 
 * ### Job Description 🏢
-  Data Science / Data Analytics  
-  Machine Learning(Statistical Learning) Engineer / Deep Learning Engineer
+  **Data Science / Data Analytics**
+  **Machine Learning(Statistical Learning) Engineer / Deep Learning Engineer**
 
 * ### Interested in 💡
-  Recommendation System / Natural Language Processing(NLP) / Finance ML
+  **Recommendation System / Natural Language Processing(NLP) / Finance ML**
 
 * ### Languages and Tools ✅
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
