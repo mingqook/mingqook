@@ -1,5 +1,5 @@
-## Glad to meet you!👏 I am Minguk Kim 💥
-## Always try to Study and Learn ✊✊
+### Glad to meet you!👏 I am Minguk Kim 💥
+### Always try to Study and Learn ✊✊
 
 * ### Education 🎓
   Seoul National University(SNU)   
