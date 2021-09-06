@@ -24,9 +24,8 @@
   <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
   
 * ### Links 🌎
-  <a href="https://velog.io/@mingqook" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-  <a href="https://velog.io/@mingqook" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-#0A66C2?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-
+  <a href="https://velog.io/@mingqook" target="_blank"><img alt="Velog" src ="https://img.shields.io/badge/Vimeo-20c997.svg?&style=for-the-badge&logo=Vimeo&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/mingukkim-data/" target="_blank"><img alt="LinkedIn" src ="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>
 
 
 <!--
