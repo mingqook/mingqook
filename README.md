@@ -24,9 +24,10 @@
   <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
   
 * ### Links 🌎
-  <a href="https://velog.io/@mingqook" target="_blank"><img alt="Velog" src ="https://img.shields.io/badge/Vimeo-20c997.svg?&style=for-the-badge&logo=Vimeo&logoColor=white"/>
   <a href="https://www.linkedin.com/in/mingukkim-data/" target="_blank"><img alt="LinkedIn" src ="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-
+  <a href="https://velog.io/@mingqook" target="_blank"><img alt="Velog" src ="https://img.shields.io/badge/Velog-20c997.svg?&style=for-the-badge&logo=Vimeo&logoColor=white"/>
+  <a href="https://brunch.co.kr/@kmgeee" target="_blank"><img alt="Velog" src ="https://img.shields.io/badge/Brunch-000000.svg?&style=for-the-badge&logo=Babel&logoColor=white"/>
+  
 
 <!--
 **mingqook/mingqook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
