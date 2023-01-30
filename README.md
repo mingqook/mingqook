@@ -7,7 +7,7 @@
 
 * ### Job Description 🏢
   **Data Science / Data Analytics**  
-  **Machine Learning(Statistical Learning) Engineer / Deep Learning Engineer**
+  **Data Engineer / Machine Learning(Statistical Learning) Engineer**
 
 * ### Interested in 💡
   **Natural Language Processing(NLP) / Recommendation System / Finance ML**
